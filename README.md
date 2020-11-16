@@ -22,7 +22,7 @@ Com isso basta navegar até /seguradora-api e executar o comando:
 docker-compose up -d
 ```
 
-Esse comando fará com que o docker realize o pull da imagem do repositório e implantado os containers com as imagens mongodb e seguradora-api.
+Esse comando fará com que o docker realize o pull da imagem do repositório e implante os containers com as imagens do mongodb e seguradora-api.
 
 O acesso a api estará disponível em:
 
